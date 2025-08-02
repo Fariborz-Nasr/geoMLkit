@@ -81,6 +81,7 @@ nav:
     - Report Issues: https://github.com/Fariborz-Nasr/geoml-kit/issues
     - Examples:
         - examples/intro.ipynb
+        - examples/map.ipynb
     - API Reference:
           - geoml_kit module: geoml_kit.md
           - common module: common.md
