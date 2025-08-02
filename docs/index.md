@@ -9,9 +9,16 @@
 
 -   Free software: MIT License
 -   Documentation: <https://Fariborz-Nasr.github.io/geoml_kit>
-    
+
 
 ## Features
 
 -   Create interactive maps
 -   Process geospatial data
+
+## Usage
+
+```python
+import geoml_kit
+```
+
